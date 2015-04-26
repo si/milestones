@@ -1,0 +1,28 @@
+2015-04-26 20:43:44.132 Milestones[7796:1875552] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/7C659702-D15B-418B-90BD-CD79AED183CA/Library/Cookies/Cookies.binarycookies
+2015-04-26 20:43:44.213 Milestones[7796:1875552] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 20:43:44.213 Milestones[7796:1875552] Multi-tasking -> Device: YES, App: YES
+2015-04-26 20:43:44.216 Milestones[7796:1875552] Unlimited access to network resources
+2015-04-26 20:43:44.220 Milestones[7796:1875552] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 20:43:44.978 Milestones[7796:1875552] Resetting plugins due to page load.
+2015-04-26 20:43:45.085 Milestones[7796:1875552] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/49BC46BF-8F05-4B91-8CFE-C18DEB77B10E/Milestones.app/www/index.html
+2015-04-26 20:44:50.382 Milestones[7891:1876894] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/48F947CB-C852-48A8-9155-0F6DA960CDA6/Library/Cookies/Cookies.binarycookies
+2015-04-26 20:44:50.491 Milestones[7891:1876894] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 20:44:50.491 Milestones[7891:1876894] Multi-tasking -> Device: YES, App: YES
+2015-04-26 20:44:50.493 Milestones[7891:1876894] Unlimited access to network resources
+2015-04-26 20:44:50.496 Milestones[7891:1876894] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 20:44:50.658 Milestones[7891:1876894] Resetting plugins due to page load.
+2015-04-26 20:44:50.752 Milestones[7891:1876894] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/ED155AFD-0F84-4286-98B6-8D0BE614AEC4/Milestones.app/www/index.html
