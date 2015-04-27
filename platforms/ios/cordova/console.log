@@ -26,3 +26,634 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 
 2015-04-26 20:44:50.658 Milestones[7891:1876894] Resetting plugins due to page load.
 2015-04-26 20:44:50.752 Milestones[7891:1876894] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/ED155AFD-0F84-4286-98B6-8D0BE614AEC4/Milestones.app/www/index.html
+2015-04-26 22:10:34.310 Milestones[8132:1890327] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/AB965A32-6156-4514-AFB4-C7E1117B0DFD/Library/Cookies/Cookies.binarycookies
+2015-04-26 22:10:34.373 Milestones[8132:1890327] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 22:10:34.374 Milestones[8132:1890327] Multi-tasking -> Device: YES, App: YES
+2015-04-26 22:10:34.376 Milestones[8132:1890327] Unlimited access to network resources
+2015-04-26 22:10:34.379 Milestones[8132:1890327] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 22:10:34.527 Milestones[8132:1890327] Resetting plugins due to page load.
+2015-04-26 22:10:34.622 Milestones[8132:1890327] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/BBF25557-03B6-4997-B11A-CC9BE7EA1484/Milestones.app/www/index.html
+2015-04-26 22:10:34.706 Milestones[8132:1890327] Received Event: deviceready
+2015-04-26 22:12:09.151 Milestones[8258:1891882] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/23640758-5D7F-425D-900B-E3B3ED83493F/Library/Cookies/Cookies.binarycookies
+2015-04-26 22:12:09.236 Milestones[8258:1891882] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 22:12:09.236 Milestones[8258:1891882] Multi-tasking -> Device: YES, App: YES
+2015-04-26 22:12:09.238 Milestones[8258:1891882] Unlimited access to network resources
+2015-04-26 22:12:09.241 Milestones[8258:1891882] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 22:12:09.394 Milestones[8258:1891882] Resetting plugins due to page load.
+2015-04-26 22:12:09.507 Milestones[8258:1891882] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/3AF313D2-AFD2-47FD-8454-98B697BE2258/Milestones.app/www/index.html
+2015-04-26 22:12:09.583 Milestones[8258:1891882] Received Event: deviceready
+2015-04-26 22:12:32.946 Milestones[8258:1891882] Resetting plugins due to page load.
+2015-04-26 22:12:32.955 Milestones[8258:1891882] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/3AF313D2-AFD2-47FD-8454-98B697BE2258/Milestones.app/www/index.html?dob=1980-07-05
+2015-04-26 22:12:32.977 Milestones[8258:1891882] Received Event: deviceready
+2015-04-27 07:47:40.355 Milestones[8505:1905034] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/233C2C05-57A5-4204-BB3C-9D6945B9A4FE/Library/Cookies/Cookies.binarycookies
+2015-04-27 07:47:40.473 Milestones[8505:1905034] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 07:47:40.474 Milestones[8505:1905034] Multi-tasking -> Device: YES, App: YES
+2015-04-27 07:47:40.490 Milestones[8505:1905034] Unlimited access to network resources
+2015-04-27 07:47:40.496 Milestones[8505:1905034] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 07:47:40.757 Milestones[8505:1905034] Resetting plugins due to page load.
+2015-04-27 07:47:40.915 Milestones[8505:1905034] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/82AF74F0-955B-46D0-80A3-D35B242E4896/Milestones.app/www/index.html
+2015-04-27 07:47:50.253 Milestones[8505:1905034] Resetting plugins due to page load.
+2015-04-27 07:47:50.261 Milestones[8505:1905034] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/82AF74F0-955B-46D0-80A3-D35B242E4896/Milestones.app/www/index.html?dob=2012-02-27
+2015-04-27 07:47:59.031 Milestones[8505:1905034] Resetting plugins due to page load.
+2015-04-27 07:47:59.039 Milestones[8505:1905034] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/82AF74F0-955B-46D0-80A3-D35B242E4896/Milestones.app/www/index.html?dob=2013-02-25
+2015-04-27 07:54:54.624 Milestones[8656:1909525] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/ACB2559C-8300-49A3-B267-8AF701A6B3B9/Library/Cookies/Cookies.binarycookies
+2015-04-27 07:54:54.688 Milestones[8656:1909525] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 07:54:54.689 Milestones[8656:1909525] Multi-tasking -> Device: YES, App: YES
+2015-04-27 07:54:54.692 Milestones[8656:1909525] Unlimited access to network resources
+2015-04-27 07:54:54.695 Milestones[8656:1909525] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 07:54:54.845 Milestones[8656:1909525] Resetting plugins due to page load.
+2015-04-27 07:54:54.943 Milestones[8656:1909525] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/000D4B41-78DE-4F6B-AF01-0B533FACC062/Milestones.app/www/index.html
+2015-04-27 07:55:23.450 Milestones[8656:1909525] Resetting plugins due to page load.
+2015-04-27 07:55:23.468 Milestones[8656:1909525] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/000D4B41-78DE-4F6B-AF01-0B533FACC062/Milestones.app/www/index.html?dob=2001-02-25
+2015-04-27 07:56:03.057 Milestones[8781:1911267] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/14B37607-8C9C-4AA3-B4F6-77A3A3CBF295/Library/Cookies/Cookies.binarycookies
+2015-04-27 07:56:03.123 Milestones[8781:1911267] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 07:56:03.123 Milestones[8781:1911267] Multi-tasking -> Device: YES, App: YES
+2015-04-27 07:56:03.125 Milestones[8781:1911267] Unlimited access to network resources
+2015-04-27 07:56:03.128 Milestones[8781:1911267] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 07:56:03.282 Milestones[8781:1911267] Resetting plugins due to page load.
+2015-04-27 07:56:03.375 Milestones[8781:1911267] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/EECE52DE-3C18-496D-8A4E-490D6E22540C/Milestones.app/www/index.html
+2015-04-27 07:56:03.466 Milestones[8781:1911267] Received Event: deviceready
+2015-04-27 07:56:53.511 Milestones[8781:1911267] Resetting plugins due to page load.
+2015-04-27 07:56:53.530 Milestones[8781:1911267] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/EECE52DE-3C18-496D-8A4E-490D6E22540C/Milestones.app/www/index.html?dob=2013-03-27
+2015-04-27 07:56:53.605 Milestones[8781:1911267] Received Event: deviceready
+2015-04-27 07:57:46.977 Milestones[8911:1913272] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/746DCBAC-890E-48BB-AD86-A77AB7E929C5/Library/Cookies/Cookies.binarycookies
+2015-04-27 07:57:47.047 Milestones[8911:1913272] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 07:57:47.047 Milestones[8911:1913272] Multi-tasking -> Device: YES, App: YES
+2015-04-27 07:57:47.049 Milestones[8911:1913272] Unlimited access to network resources
+2015-04-27 07:57:47.052 Milestones[8911:1913272] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 07:57:47.203 Milestones[8911:1913272] Resetting plugins due to page load.
+2015-04-27 07:57:47.302 Milestones[8911:1913272] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/E2EBC71A-8746-4B54-94E9-DB9A8808EA90/Milestones.app/www/index.html
+2015-04-27 07:57:47.387 Milestones[8911:1913272] Received Event: deviceready
+2015-04-27 07:57:47.387 Milestones[8911:1913272] form.length= 2
+2015-04-27 08:00:57.506 Milestones[9053:1915841] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/46F1E653-2E4E-4A9A-9D84-8988316DAFCD/Library/Cookies/Cookies.binarycookies
+2015-04-27 08:00:57.573 Milestones[9053:1915841] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 08:00:57.573 Milestones[9053:1915841] Multi-tasking -> Device: YES, App: YES
+2015-04-27 08:00:57.575 Milestones[9053:1915841] Unlimited access to network resources
+2015-04-27 08:00:57.578 Milestones[9053:1915841] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 08:00:57.732 Milestones[9053:1915841] Resetting plugins due to page load.
+2015-04-27 08:00:57.837 Milestones[9053:1915841] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/CF451830-4907-4F0B-A445-AC669176E435/Milestones.app/www/index.html
+2015-04-27 08:00:57.923 Milestones[9053:1915841] Received Event: deviceready
+2015-04-27 08:00:57.923 Milestones[9053:1915841] form.length= 2
+2015-04-27 08:00:57.923 Milestones[9053:1915841] dob.length= 
+2015-04-27 08:01:06.671 Milestones[9053:1915841] dob.value= 2015-04-27
+2015-04-27 08:01:08.893 Milestones[9053:1915841] dob.value= 2015-02-27
+2015-04-27 08:01:15.762 Milestones[9053:1915841] dob.value= 2015-01-27
+2015-04-27 08:01:16.611 Milestones[9053:1915841] dob.value= 2015-12-27
+2015-04-27 08:01:17.425 Milestones[9053:1915841] dob.value= 2015-11-27
+2015-04-27 08:01:18.243 Milestones[9053:1915841] dob.value= 2015-10-27
+2015-04-27 08:01:19.097 Milestones[9053:1915841] dob.value= 2015-06-27
+2015-04-27 08:01:19.511 Milestones[9053:1915841] dob.value= 2015-04-27
+2015-04-27 08:01:20.811 Milestones[9053:1915841] dob.value= 2015-03-27
+2015-04-27 08:01:22.579 Milestones[9053:1915841] dob.value= 2013-03-27
+2015-04-27 08:01:23.927 Milestones[9053:1915841] dob.value= 2005-03-27
+2015-04-27 08:01:25.410 Milestones[9053:1915841] dob.value= 2003-03-27
+2015-04-27 08:01:26.213 Milestones[9053:1915841] dob.value= 2002-03-27
+2015-04-27 08:01:28.545 Milestones[9053:1915841] dob.value= 2002-03-18
+2015-04-27 08:03:03.712 Milestones[9196:1918403] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/7E0AF760-015E-4FF5-8C5B-46DCB19CAE0F/Library/Cookies/Cookies.binarycookies
+2015-04-27 08:03:03.781 Milestones[9196:1918403] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 08:03:03.781 Milestones[9196:1918403] Multi-tasking -> Device: YES, App: YES
+2015-04-27 08:03:03.783 Milestones[9196:1918403] Unlimited access to network resources
+2015-04-27 08:03:03.786 Milestones[9196:1918403] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 08:03:03.937 Milestones[9196:1918403] Resetting plugins due to page load.
+2015-04-27 08:03:04.035 Milestones[9196:1918403] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/67864799-B774-4923-AD59-A05D517C899C/Milestones.app/www/index.html
+2015-04-27 08:03:54.204 Milestones[9316:1919923] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/55C4426A-E74D-4140-9126-AEA679D5DACD/Library/Cookies/Cookies.binarycookies
+2015-04-27 08:03:54.271 Milestones[9316:1919923] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 08:03:54.272 Milestones[9316:1919923] Multi-tasking -> Device: YES, App: YES
+2015-04-27 08:03:54.273 Milestones[9316:1919923] Unlimited access to network resources
+2015-04-27 08:03:54.276 Milestones[9316:1919923] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 08:03:54.423 Milestones[9316:1919923] Resetting plugins due to page load.
+2015-04-27 08:03:54.529 Milestones[9316:1919923] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/71FFB027-EBA1-4607-BDDC-1533547E830A/Milestones.app/www/index.html
+2015-04-27 08:04:48.851 Milestones[9422:1921048] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/CAB80B47-98AD-4AC8-AFE2-F6A384DEE826/Library/Cookies/Cookies.binarycookies
+2015-04-27 08:04:48.932 Milestones[9422:1921048] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 08:04:48.933 Milestones[9422:1921048] Multi-tasking -> Device: YES, App: YES
+2015-04-27 08:04:48.934 Milestones[9422:1921048] Unlimited access to network resources
+2015-04-27 08:04:48.937 Milestones[9422:1921048] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 08:04:49.085 Milestones[9422:1921048] Resetting plugins due to page load.
+2015-04-27 08:04:49.180 Milestones[9422:1921048] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/F53E5759-52C2-4B16-AFBD-2727FFCD99EB/Milestones.app/www/index.html
+2015-04-27 08:04:49.263 Milestones[9422:1921048] Received Event: deviceready
+2015-04-27 08:06:33.890 Milestones[9498:1922389] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/C0D32A62-21A6-44A2-B36F-0721B8B81F48/Library/Cookies/Cookies.binarycookies
+2015-04-27 08:06:33.970 Milestones[9498:1922389] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 08:06:33.971 Milestones[9498:1922389] Multi-tasking -> Device: YES, App: YES
+2015-04-27 08:06:33.973 Milestones[9498:1922389] Unlimited access to network resources
+2015-04-27 08:06:33.975 Milestones[9498:1922389] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 08:06:34.125 Milestones[9498:1922389] Resetting plugins due to page load.
+2015-04-27 08:06:34.226 Milestones[9498:1922389] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/E4AD5071-5A32-41BE-989A-A351D0E5BADE/Milestones.app/www/index.html
+2015-04-27 08:06:34.305 Milestones[9498:1922389] Received Event: deviceready
+2015-04-27 08:06:44.504 Milestones[9498:1922389] this.value= 2015-04-27
+2015-04-27 08:06:46.641 Milestones[9498:1922389] this.value= 2015-03-27
+2015-04-27 08:06:47.490 Milestones[9498:1922389] this.value= 2015-02-27
+2015-04-27 08:06:48.174 Milestones[9498:1922389] this.value= 2015-01-27
+2015-04-27 08:06:48.842 Milestones[9498:1922389] this.value= 2015-12-27
+2015-04-27 08:06:49.577 Milestones[9498:1922389] this.value= 2015-11-27
+2015-04-27 08:06:50.372 Milestones[9498:1922389] this.value= 2015-10-27
+2015-04-27 08:06:51.074 Milestones[9498:1922389] this.value= 2015-09-27
+2015-04-27 08:06:51.975 Milestones[9498:1922389] this.value= 2015-08-27
+2015-04-27 08:06:52.843 Milestones[9498:1922389] this.value= 2015-07-27
+2015-04-27 08:06:53.676 Milestones[9498:1922389] this.value= 2015-06-27
+2015-04-27 08:06:54.379 Milestones[9498:1922389] this.value= 2015-05-27
+2015-04-27 08:06:55.091 Milestones[9498:1922389] this.value= 2015-04-27
+2015-04-27 08:06:55.841 Milestones[9498:1922389] this.value= 2015-03-27
+2015-04-27 08:06:56.374 Milestones[9498:1922389] this.value= 2015-12-27
+2015-04-27 08:06:57.509 Milestones[9498:1922389] this.value= 2015-08-27
+2015-04-27 08:07:32.458 Milestones[9563:1923306] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/81E0D91B-46AD-48FD-A499-2E3EF58109BC/Library/Cookies/Cookies.binarycookies
+2015-04-27 08:07:32.552 Milestones[9563:1923306] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 08:07:32.552 Milestones[9563:1923306] Multi-tasking -> Device: YES, App: YES
+2015-04-27 08:07:32.555 Milestones[9563:1923306] Unlimited access to network resources
+2015-04-27 08:07:32.560 Milestones[9563:1923306] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 08:07:32.727 Milestones[9563:1923306] Resetting plugins due to page load.
+2015-04-27 08:07:32.830 Milestones[9563:1923306] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/67543CEC-1CFF-433D-999E-8AABDF8840E0/Milestones.app/www/index.html
+2015-04-27 08:07:32.913 Milestones[9563:1923306] Received Event: deviceready
+2015-04-27 08:07:40.358 Milestones[9563:1923306] this.value= 2015-04-27
+2015-04-27 08:07:40.358 Milestones[9563:1923306] dob.value= 2015-04-27
+2015-04-27 08:07:40.358 Milestones[9563:1923306] days.length= 
+2015-04-27 08:07:40.358 Milestones[9563:1923306] start= 1430092800000
+2015-04-27 08:07:40.359 Milestones[9563:1923306] now= 1430118460038
+2015-04-27 08:07:43.365 Milestones[9563:1923306] this.value= 2015-02-27
+2015-04-27 08:07:43.366 Milestones[9563:1923306] dob.value= 2015-02-27
+2015-04-27 08:07:43.366 Milestones[9563:1923306] days.length= 
+2015-04-27 08:07:43.366 Milestones[9563:1923306] start= 1424995200000
+2015-04-27 08:07:43.366 Milestones[9563:1923306] now= 1430118463364
+2015-04-27 08:07:55.183 Milestones[9563:1923306] this.value= 2015-12-27
+2015-04-27 08:07:55.183 Milestones[9563:1923306] dob.value= 2015-12-27
+2015-04-27 08:07:55.183 Milestones[9563:1923306] days.length= 
+2015-04-27 08:07:55.183 Milestones[9563:1923306] start= 1451174400000
+2015-04-27 08:07:55.183 Milestones[9563:1923306] now= 1430118475181
+2015-04-27 08:07:56.252 Milestones[9563:1923306] this.value= 2015-10-27
+2015-04-27 08:07:56.252 Milestones[9563:1923306] dob.value= 2015-10-27
+2015-04-27 08:07:56.252 Milestones[9563:1923306] days.length= 
+2015-04-27 08:07:56.252 Milestones[9563:1923306] start= 1445904000000
+2015-04-27 08:07:56.252 Milestones[9563:1923306] now= 1430118476250
+2015-04-27 08:07:57.188 Milestones[9563:1923306] this.value= 2015-08-27
+2015-04-27 08:07:57.188 Milestones[9563:1923306] dob.value= 2015-08-27
+2015-04-27 08:07:57.188 Milestones[9563:1923306] days.length= 
+2015-04-27 08:07:57.188 Milestones[9563:1923306] start= 1440633600000
+2015-04-27 08:07:57.189 Milestones[9563:1923306] now= 1430118477186
+2015-04-27 08:07:58.135 Milestones[9563:1923306] this.value= 2015-06-27
+2015-04-27 08:07:58.135 Milestones[9563:1923306] dob.value= 2015-06-27
+2015-04-27 08:07:58.135 Milestones[9563:1923306] days.length= 
+2015-04-27 08:07:58.135 Milestones[9563:1923306] start= 1435363200000
+2015-04-27 08:07:58.136 Milestones[9563:1923306] now= 1430118478133
+2015-04-27 08:07:58.939 Milestones[9563:1923306] this.value= 2015-04-27
+2015-04-27 08:07:58.940 Milestones[9563:1923306] dob.value= 2015-04-27
+2015-04-27 08:07:58.940 Milestones[9563:1923306] days.length= 
+2015-04-27 08:07:58.940 Milestones[9563:1923306] start= 1430092800000
+2015-04-27 08:07:58.940 Milestones[9563:1923306] now= 1430118478937
+2015-04-27 08:11:33.168 Milestones[9669:1925690] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/FE57CE12-AF8D-44D1-8E7F-796E6AED73F2/Library/Cookies/Cookies.binarycookies
+2015-04-27 08:11:33.249 Milestones[9669:1925690] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 08:11:33.250 Milestones[9669:1925690] Multi-tasking -> Device: YES, App: YES
+2015-04-27 08:11:33.251 Milestones[9669:1925690] Unlimited access to network resources
+2015-04-27 08:11:33.254 Milestones[9669:1925690] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 08:11:33.416 Milestones[9669:1925690] Resetting plugins due to page load.
+2015-04-27 08:11:33.521 Milestones[9669:1925690] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/5F5DD86C-609A-4238-968C-FA06B773D054/Milestones.app/www/index.html
+2015-04-27 08:11:33.587 Milestones[9669:1925690] Received Event: deviceready
+2015-04-27 08:11:41.287 Milestones[9669:1925690] dob.value= 2015-04-27
+2015-04-27 08:11:41.287 Milestones[9669:1925690] days.length= 
+2015-04-27 08:11:41.287 Milestones[9669:1925690] start= 1430092800000
+2015-04-27 08:11:41.287 Milestones[9669:1925690] now= 1430118700973
+2015-04-27 08:11:41.288 Milestones[9669:1925690] diff= 0.2997797800925926
+2015-04-27 08:11:42.380 Milestones[9669:1925690] dob.value= 2015-03-27
+2015-04-27 08:11:42.381 Milestones[9669:1925690] days.length= 
+2015-04-27 08:11:42.381 Milestones[9669:1925690] start= 1427414400000
+2015-04-27 08:11:42.381 Milestones[9669:1925690] now= 1430118702379
+2015-04-27 08:11:42.381 Milestones[9669:1925690] diff= 31.299796053240744
+2015-04-27 08:11:50.330 Milestones[9669:1925690] dob.value= 2015-02-27
+2015-04-27 08:11:50.331 Milestones[9669:1925690] days.length= 
+2015-04-27 08:11:50.331 Milestones[9669:1925690] start= 1424995200000
+2015-04-27 08:11:50.331 Milestones[9669:1925690] now= 1430118710329
+2015-04-27 08:11:50.331 Milestones[9669:1925690] diff= 59.299888067129636
+2015-04-27 08:11:53.950 Milestones[9669:1925690] dob.value= 2015-01-27
+2015-04-27 08:11:53.950 Milestones[9669:1925690] days.length= 
+2015-04-27 08:11:53.951 Milestones[9669:1925690] start= 1422316800000
+2015-04-27 08:11:53.951 Milestones[9669:1925690] now= 1430118713949
+2015-04-27 08:11:53.951 Milestones[9669:1925690] diff= 90.29992996527778
+2015-04-27 08:11:55.200 Milestones[9669:1925690] dob.value= 2015-12-27
+2015-04-27 08:11:55.200 Milestones[9669:1925690] days.length= 
+2015-04-27 08:11:55.200 Milestones[9669:1925690] start= 1451174400000
+2015-04-27 08:11:55.201 Milestones[9669:1925690] now= 1430118715199
+2015-04-27 08:11:55.201 Milestones[9669:1925690] diff= -243.70005556712965
+2015-04-27 08:11:56.767 Milestones[9669:1925690] dob.value= 2015-11-27
+2015-04-27 08:11:56.767 Milestones[9669:1925690] days.length= 
+2015-04-27 08:11:56.767 Milestones[9669:1925690] start= 1448582400000
+2015-04-27 08:11:56.767 Milestones[9669:1925690] now= 1430118716764
+2015-04-27 08:11:56.767 Milestones[9669:1925690] diff= -213.70003745370374
+2015-04-27 08:11:58.381 Milestones[9669:1925690] dob.value= 2014-11-27
+2015-04-27 08:11:58.381 Milestones[9669:1925690] days.length= 
+2015-04-27 08:11:58.381 Milestones[9669:1925690] start= 1417046400000
+2015-04-27 08:11:58.382 Milestones[9669:1925690] now= 1430118718379
+2015-04-27 08:11:58.382 Milestones[9669:1925690] diff= 151.29998123842594
+2015-04-27 08:11:59.801 Milestones[9669:1925690] dob.value= 2012-11-27
+2015-04-27 08:11:59.801 Milestones[9669:1925690] days.length= 
+2015-04-27 08:11:59.802 Milestones[9669:1925690] start= 1353974400000
+2015-04-27 08:11:59.802 Milestones[9669:1925690] now= 1430118719799
+2015-04-27 08:11:59.802 Milestones[9669:1925690] diff= 881.299997673611
+2015-04-27 08:12:02.667 Milestones[9669:1925690] dob.value= 2007-11-27
+2015-04-27 08:12:02.667 Milestones[9669:1925690] days.length= 
+2015-04-27 08:12:02.668 Milestones[9669:1925690] start= 1196121600000
+2015-04-27 08:12:02.668 Milestones[9669:1925690] now= 1430118722666
+2015-04-27 08:12:02.668 Milestones[9669:1925690] diff= 2708.3000308564815
+2015-04-27 08:12:04.944 Milestones[9669:1925690] dob.value= 1996-11-27
+2015-04-27 08:12:04.944 Milestones[9669:1925690] days.length= 
+2015-04-27 08:12:04.944 Milestones[9669:1925690] start= 849052800000
+2015-04-27 08:12:04.945 Milestones[9669:1925690] now= 1430118724942
+2015-04-27 08:12:04.945 Milestones[9669:1925690] diff= 6725.300057199074
+2015-04-27 08:12:06.852 Milestones[9669:1925690] dob.value= 1989-11-27
+2015-04-27 08:12:06.852 Milestones[9669:1925690] days.length= 
+2015-04-27 08:12:06.852 Milestones[9669:1925690] start= 628128000000
+2015-04-27 08:12:06.852 Milestones[9669:1925690] now= 1430118726850
+2015-04-27 08:12:06.852 Milestones[9669:1925690] diff= 9282.300079282408
+2015-04-27 08:12:08.301 Milestones[9669:1925690] dob.value= 1981-11-27
+2015-04-27 08:12:08.301 Milestones[9669:1925690] days.length= 
+2015-04-27 08:12:08.301 Milestones[9669:1925690] start= 375667200000
+2015-04-27 08:12:08.301 Milestones[9669:1925690] now= 1430118728299
+2015-04-27 08:12:08.301 Milestones[9669:1925690] diff= 12204.300096053243
+2015-04-27 08:12:09.055 Milestones[9669:1925690] dob.value= 1979-11-27
+2015-04-27 08:12:09.055 Milestones[9669:1925690] days.length= 
+2015-04-27 08:12:09.055 Milestones[9669:1925690] start= 312508800000
+2015-04-27 08:12:09.056 Milestones[9669:1925690] now= 1430118729052
+2015-04-27 08:12:09.056 Milestones[9669:1925690] diff= 12935.30010476852
+2015-04-27 08:12:11.184 Milestones[9669:1925690] dob.value= 1980-11-27
+2015-04-27 08:12:11.184 Milestones[9669:1925690] days.length= 
+2015-04-27 08:12:11.184 Milestones[9669:1925690] start= 344131200000
+2015-04-27 08:12:11.184 Milestones[9669:1925690] now= 1430118731183
+2015-04-27 08:12:11.185 Milestones[9669:1925690] diff= 12569.30012943287
+2015-04-27 08:12:14.470 Milestones[9669:1925690] dob.value= 1980-11-30
+2015-04-27 08:12:14.471 Milestones[9669:1925690] days.length= 
+2015-04-27 08:12:14.471 Milestones[9669:1925690] start= 344390400000
+2015-04-27 08:12:14.471 Milestones[9669:1925690] now= 1430118734468
+2015-04-27 08:12:14.471 Milestones[9669:1925690] diff= 12566.300167453703
+2015-04-27 08:12:15.703 Milestones[9669:1925690] dob.value= 1980-11-04
+2015-04-27 08:12:15.704 Milestones[9669:1925690] days.length= 
+2015-04-27 08:12:15.704 Milestones[9669:1925690] start= 342144000000
+2015-04-27 08:12:15.704 Milestones[9669:1925690] now= 1430118735702
+2015-04-27 08:12:15.704 Milestones[9669:1925690] diff= 12592.30018173611
+2015-04-27 08:12:16.421 Milestones[9669:1925690] dob.value= 1980-11-06
+2015-04-27 08:12:16.421 Milestones[9669:1925690] days.length= 
+2015-04-27 08:12:16.422 Milestones[9669:1925690] start= 342316800000
+2015-04-27 08:12:16.422 Milestones[9669:1925690] now= 1430118736419
+2015-04-27 08:12:16.422 Milestones[9669:1925690] diff= 12590.30019003472
+2015-04-27 08:12:17.921 Milestones[9669:1925690] dob.value= 1980-11-05
+2015-04-27 08:12:17.921 Milestones[9669:1925690] days.length= 
+2015-04-27 08:12:17.921 Milestones[9669:1925690] start= 342230400000
+2015-04-27 08:12:17.921 Milestones[9669:1925690] now= 1430118737919
+2015-04-27 08:12:17.921 Milestones[9669:1925690] diff= 12591.300207395834
+2015-04-27 08:12:19.804 Milestones[9669:1925690] dob.value= 1980-09-05
+2015-04-27 08:12:19.804 Milestones[9669:1925690] days.length= 
+2015-04-27 08:12:19.805 Milestones[9669:1925690] start= 336960000000
+2015-04-27 08:12:19.805 Milestones[9669:1925690] now= 1430118739802
+2015-04-27 08:12:19.805 Milestones[9669:1925690] diff= 12652.300229189816
+2015-04-27 08:12:20.503 Milestones[9669:1925690] dob.value= 1980-07-05
+2015-04-27 08:12:20.504 Milestones[9669:1925690] days.length= 
+2015-04-27 08:12:20.504 Milestones[9669:1925690] start= 331603200000
+2015-04-27 08:12:20.504 Milestones[9669:1925690] now= 1430118740501
+2015-04-27 08:12:20.504 Milestones[9669:1925690] diff= 12714.300237280091
+2015-04-27 08:14:14.371 Milestones[9797:1928077] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/E188496C-A37A-406F-8FFF-D2BC2D9BC620/Library/Cookies/Cookies.binarycookies
+2015-04-27 08:14:14.443 Milestones[9797:1928077] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 08:14:14.443 Milestones[9797:1928077] Multi-tasking -> Device: YES, App: YES
+2015-04-27 08:14:14.445 Milestones[9797:1928077] Unlimited access to network resources
+2015-04-27 08:14:14.448 Milestones[9797:1928077] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 08:14:14.601 Milestones[9797:1928077] Resetting plugins due to page load.
+2015-04-27 08:14:14.696 Milestones[9797:1928077] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/6B0B0B0C-39E2-4675-8145-6E30FCC62AC2/Milestones.app/www/index.html
+2015-04-27 08:14:14.780 Milestones[9797:1928077] Received Event: deviceready
+2015-04-27 08:14:23.328 Milestones[9797:1928077] dob.value= 2015-04-27
+2015-04-27 08:14:23.328 Milestones[9797:1928077] days.length= 
+2015-04-27 08:14:23.328 Milestones[9797:1928077] start= 1430092800000
+2015-04-27 08:14:23.328 Milestones[9797:1928077] now= 1430118863021
+2015-04-27 08:14:23.328 Milestones[9797:1928077] diff= 0.30165533564814817
+2015-04-27 08:14:25.301 Milestones[9797:1928077] dob.value= 2015-02-27
+2015-04-27 08:14:25.301 Milestones[9797:1928077] days.length= 
+2015-04-27 08:14:25.302 Milestones[9797:1928077] start= 1424995200000
+2015-04-27 08:14:25.302 Milestones[9797:1928077] now= 1430118865299
+2015-04-27 08:14:25.302 Milestones[9797:1928077] diff= 59.30168170138888
+2015-04-27 08:14:26.440 Milestones[9797:1928077] dob.value= 2015-12-27
+2015-04-27 08:14:26.440 Milestones[9797:1928077] days.length= 
+2015-04-27 08:14:26.440 Milestones[9797:1928077] start= 1451174400000
+2015-04-27 08:14:26.440 Milestones[9797:1928077] now= 1430118866437
+2015-04-27 08:14:26.440 Milestones[9797:1928077] diff= -243.69830512731482
+2015-04-27 08:14:38.238 Milestones[9797:1928077] dob.value= 2014-12-27
+2015-04-27 08:14:38.238 Milestones[9797:1928077] days.length= 
+2015-04-27 08:14:38.238 Milestones[9797:1928077] start= 1419638400000
+2015-04-27 08:14:38.238 Milestones[9797:1928077] now= 1430118878237
+2015-04-27 08:14:38.239 Milestones[9797:1928077] diff= 121.30183144675925
+2015-04-27 08:14:39.827 Milestones[9797:1928077] dob.value= 2009-12-27
+2015-04-27 08:14:39.828 Milestones[9797:1928077] days.length= 
+2015-04-27 08:14:39.828 Milestones[9797:1928077] start= 1261872000000
+2015-04-27 08:14:39.828 Milestones[9797:1928077] now= 1430118879824
+2015-04-27 08:14:39.828 Milestones[9797:1928077] diff= 1947.301849814815
+2015-04-27 08:14:41.272 Milestones[9797:1928077] dob.value= 2006-12-27
+2015-04-27 08:14:41.272 Milestones[9797:1928077] days.length= 
+2015-04-27 08:14:41.273 Milestones[9797:1928077] start= 1167177600000
+2015-04-27 08:14:41.273 Milestones[9797:1928077] now= 1430118881269
+2015-04-27 08:14:41.273 Milestones[9797:1928077] diff= 3043.301866539352
+2015-04-27 08:15:29.653 Milestones[9876:1929672] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/F1F0E7F9-031F-4318-B9D4-431824FC789B/Library/Cookies/Cookies.binarycookies
+2015-04-27 08:15:29.742 Milestones[9876:1929672] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 08:15:29.742 Milestones[9876:1929672] Multi-tasking -> Device: YES, App: YES
+2015-04-27 08:15:29.744 Milestones[9876:1929672] Unlimited access to network resources
+2015-04-27 08:15:29.748 Milestones[9876:1929672] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 08:15:29.903 Milestones[9876:1929672] Resetting plugins due to page load.
+2015-04-27 08:15:29.999 Milestones[9876:1929672] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/38814769-897C-4B28-B5DC-6DE3087510A1/Milestones.app/www/index.html
+2015-04-27 08:15:30.082 Milestones[9876:1929672] Received Event: deviceready
+2015-04-27 08:15:37.314 Milestones[9876:1929672] dob.value= 2015-04-27
+2015-04-27 08:15:37.314 Milestones[9876:1929672] days= [object HTMLElement]
+2015-04-27 08:15:37.314 Milestones[9876:1929672] start= 1430092800000
+2015-04-27 08:15:37.314 Milestones[9876:1929672] now= 1430118936992
+2015-04-27 08:15:37.314 Milestones[9876:1929672] diff= 0.30251148148148144
+2015-04-27 08:15:43.749 Milestones[9876:1929672] dob.value= 2015-05-27
+2015-04-27 08:15:43.749 Milestones[9876:1929672] days= [object HTMLElement]
+2015-04-27 08:15:43.750 Milestones[9876:1929672] start= 1432684800000
+2015-04-27 08:15:43.750 Milestones[9876:1929672] now= 1430118943748
+2015-04-27 08:15:43.750 Milestones[9876:1929672] diff= -29.697410324074074
+2015-04-27 08:15:46.301 Milestones[9876:1929672] dob.value= 2015-07-27
+2015-04-27 08:15:46.301 Milestones[9876:1929672] days= [object HTMLElement]
+2015-04-27 08:15:46.301 Milestones[9876:1929672] start= 1437955200000
+2015-04-27 08:15:46.301 Milestones[9876:1929672] now= 1430118946299
+2015-04-27 08:15:46.302 Milestones[9876:1929672] diff= -90.6973807986111
+2015-04-27 08:19:50.577 Milestones[9967:1932480] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/674A5CAB-0ED6-489D-845E-D0BE57CD50C9/Library/Cookies/Cookies.binarycookies
+2015-04-27 08:19:50.652 Milestones[9967:1932480] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 08:19:50.652 Milestones[9967:1932480] Multi-tasking -> Device: YES, App: YES
+2015-04-27 08:19:50.654 Milestones[9967:1932480] Unlimited access to network resources
+2015-04-27 08:19:50.657 Milestones[9967:1932480] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 08:19:50.810 Milestones[9967:1932480] Resetting plugins due to page load.
+2015-04-27 08:19:50.913 Milestones[9967:1932480] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/7D97AA06-6DD9-42B1-9643-A38F4B9D4C69/Milestones.app/www/index.html
+2015-04-27 08:19:50.986 Milestones[9967:1932480] Received Event: deviceready
+2015-04-27 08:19:59.083 Milestones[9967:1932480] dob.value= 2015-04-27
+2015-04-27 08:19:59.083 Milestones[9967:1932480] start= 1430092800000
+2015-04-27 08:19:59.083 Milestones[9967:1932480] now= 1430119198779
+2015-04-27 08:19:59.083 Milestones[9967:1932480] diff= 26398779
+2015-04-27 08:19:59.083 Milestones[9967:1932480] values= [object Object]
+2015-04-27 08:19:59.083 Milestones[9967:1932480] days= [object HTMLElement]
+2015-04-27 08:20:01.447 Milestones[9967:1932480] dob.value= 2015-03-27
+2015-04-27 08:20:01.447 Milestones[9967:1932480] start= 1427414400000
+2015-04-27 08:20:01.447 Milestones[9967:1932480] now= 1430119201445
+2015-04-27 08:20:01.447 Milestones[9967:1932480] diff= 2704801445
+2015-04-27 08:20:01.447 Milestones[9967:1932480] values= [object Object]
+2015-04-27 08:20:01.447 Milestones[9967:1932480] days= [object HTMLElement]
+2015-04-27 08:20:02.399 Milestones[9967:1932480] dob.value= 2015-02-27
+2015-04-27 08:20:02.399 Milestones[9967:1932480] start= 1424995200000
+2015-04-27 08:20:02.399 Milestones[9967:1932480] now= 1430119202397
+2015-04-27 08:20:02.400 Milestones[9967:1932480] diff= 5124002397
+2015-04-27 08:20:02.400 Milestones[9967:1932480] values= [object Object]
+2015-04-27 08:20:02.400 Milestones[9967:1932480] days= [object HTMLElement]
+2015-04-27 08:20:04.282 Milestones[9967:1932480] dob.value= 2015-01-27
+2015-04-27 08:20:04.282 Milestones[9967:1932480] start= 1422316800000
+2015-04-27 08:20:04.282 Milestones[9967:1932480] now= 1430119204279
+2015-04-27 08:20:04.282 Milestones[9967:1932480] diff= 7802404279
+2015-04-27 08:20:04.282 Milestones[9967:1932480] values= [object Object]
+2015-04-27 08:20:04.282 Milestones[9967:1932480] days= [object HTMLElement]
+2015-04-27 08:20:08.770 Milestones[9967:1932480] dob.value= 2013-01-27
+2015-04-27 08:20:08.770 Milestones[9967:1932480] start= 1359244800000
+2015-04-27 08:20:08.770 Milestones[9967:1932480] now= 1430119208766
+2015-04-27 08:20:08.770 Milestones[9967:1932480] diff= 70874408766
+2015-04-27 08:20:08.770 Milestones[9967:1932480] values= [object Object]
+2015-04-27 08:20:08.770 Milestones[9967:1932480] days= [object HTMLElement]
+2015-04-27 08:20:09.801 Milestones[9967:1932480] dob.value= 2009-01-27
+2015-04-27 08:20:09.801 Milestones[9967:1932480] start= 1233014400000
+2015-04-27 08:20:09.801 Milestones[9967:1932480] now= 1430119209799
+2015-04-27 08:20:09.801 Milestones[9967:1932480] diff= 197104809799
+2015-04-27 08:20:09.802 Milestones[9967:1932480] values= [object Object]
+2015-04-27 08:20:09.802 Milestones[9967:1932480] days= [object HTMLElement]
+2015-04-27 08:21:27.172 Milestones[10061:1934192] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Data/Application/5866DCF5-F8DF-43E5-9881-FE005DEBF62F/Library/Cookies/Cookies.binarycookies
+2015-04-27 08:21:27.249 Milestones[10061:1934192] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 08:21:27.249 Milestones[10061:1934192] Multi-tasking -> Device: YES, App: YES
+2015-04-27 08:21:27.251 Milestones[10061:1934192] Unlimited access to network resources
+2015-04-27 08:21:27.254 Milestones[10061:1934192] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 08:21:27.405 Milestones[10061:1934192] Resetting plugins due to page load.
+2015-04-27 08:21:27.502 Milestones[10061:1934192] Finished load of: file:///Users/simonj/Library/Developer/CoreSimulator/Devices/10C5954E-2EE2-40F3-B52F-8053EBAEF360/data/Containers/Bundle/Application/6A8CD99E-2019-4B21-8DE2-DB7A73D72477/Milestones.app/www/index.html
+2015-04-27 08:21:27.590 Milestones[10061:1934192] Received Event: deviceready
+2015-04-27 08:21:29.860 Milestones[10061:1934192] dob.value= 2015-04-27
+2015-04-27 08:21:29.860 Milestones[10061:1934192] start= 1430092800000
+2015-04-27 08:21:29.860 Milestones[10061:1934192] now= 1430119289561
+2015-04-27 08:21:29.861 Milestones[10061:1934192] diff= 26489561
+2015-04-27 08:21:29.861 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:29.861 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:29.861 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:31.161 Milestones[10061:1934192] dob.value= 2015-02-27
+2015-04-27 08:21:31.161 Milestones[10061:1934192] start= 1424995200000
+2015-04-27 08:21:31.162 Milestones[10061:1934192] now= 1430119291160
+2015-04-27 08:21:31.162 Milestones[10061:1934192] diff= 5124091160
+2015-04-27 08:21:31.162 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:31.162 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:31.162 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:34.530 Milestones[10061:1934192] dob.value= 2013-02-27
+2015-04-27 08:21:34.530 Milestones[10061:1934192] start= 1361923200000
+2015-04-27 08:21:34.530 Milestones[10061:1934192] now= 1430119294528
+2015-04-27 08:21:34.530 Milestones[10061:1934192] diff= 68196094528
+2015-04-27 08:21:34.530 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:34.530 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:34.530 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:35.595 Milestones[10061:1934192] dob.value= 2006-02-27
+2015-04-27 08:21:35.596 Milestones[10061:1934192] start= 1140998400000
+2015-04-27 08:21:35.596 Milestones[10061:1934192] now= 1430119295592
+2015-04-27 08:21:35.596 Milestones[10061:1934192] diff= 289120895592
+2015-04-27 08:21:35.596 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:35.596 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:35.596 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:36.764 Milestones[10061:1934192] dob.value= 1999-02-27
+2015-04-27 08:21:36.764 Milestones[10061:1934192] start= 920073600000
+2015-04-27 08:21:36.764 Milestones[10061:1934192] now= 1430119296762
+2015-04-27 08:21:36.765 Milestones[10061:1934192] diff= 510045696762
+2015-04-27 08:21:36.765 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:36.765 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:36.765 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:38.247 Milestones[10061:1934192] dob.value= 1994-02-27
+2015-04-27 08:21:38.247 Milestones[10061:1934192] start= 762307200000
+2015-04-27 08:21:38.247 Milestones[10061:1934192] now= 1430119298245
+2015-04-27 08:21:38.247 Milestones[10061:1934192] diff= 667812098245
+2015-04-27 08:21:38.247 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:38.247 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:38.247 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:40.012 Milestones[10061:1934192] dob.value= 1986-02-27
+2015-04-27 08:21:40.012 Milestones[10061:1934192] start= 509846400000
+2015-04-27 08:21:40.012 Milestones[10061:1934192] now= 1430119300011
+2015-04-27 08:21:40.012 Milestones[10061:1934192] diff= 920272900011
+2015-04-27 08:21:40.012 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:40.012 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:40.012 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:40.966 Milestones[10061:1934192] dob.value= 1983-02-27
+2015-04-27 08:21:40.966 Milestones[10061:1934192] start= 415152000000
+2015-04-27 08:21:40.966 Milestones[10061:1934192] now= 1430119300962
+2015-04-27 08:21:40.966 Milestones[10061:1934192] diff= 1014967300962
+2015-04-27 08:21:40.966 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:40.967 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:40.967 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:41.831 Milestones[10061:1934192] dob.value= 1980-02-27
+2015-04-27 08:21:41.832 Milestones[10061:1934192] start= 320457600000
+2015-04-27 08:21:41.832 Milestones[10061:1934192] now= 1430119301830
+2015-04-27 08:21:41.832 Milestones[10061:1934192] diff= 1109661701830
+2015-04-27 08:21:41.832 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:41.832 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:41.832 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:43.747 Milestones[10061:1934192] dob.value= 1980-04-27
+2015-04-27 08:21:43.747 Milestones[10061:1934192] start= 325641600000
+2015-04-27 08:21:43.747 Milestones[10061:1934192] now= 1430119303745
+2015-04-27 08:21:43.747 Milestones[10061:1934192] diff= 1104477703745
+2015-04-27 08:21:43.747 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:43.747 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:43.748 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:44.196 Milestones[10061:1934192] dob.value= 1980-06-27
+2015-04-27 08:21:44.196 Milestones[10061:1934192] start= 330912000000
+2015-04-27 08:21:44.197 Milestones[10061:1934192] now= 1430119304195
+2015-04-27 08:21:44.197 Milestones[10061:1934192] diff= 1099207304195
+2015-04-27 08:21:44.197 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:44.197 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:44.197 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:44.597 Milestones[10061:1934192] dob.value= 1980-08-27
+2015-04-27 08:21:44.597 Milestones[10061:1934192] start= 336182400000
+2015-04-27 08:21:44.597 Milestones[10061:1934192] now= 1430119304595
+2015-04-27 08:21:44.597 Milestones[10061:1934192] diff= 1093936904595
+2015-04-27 08:21:44.597 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:44.597 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:44.598 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:45.636 Milestones[10061:1934192] dob.value= 1980-07-27
+2015-04-27 08:21:45.637 Milestones[10061:1934192] start= 333504000000
+2015-04-27 08:21:45.637 Milestones[10061:1934192] now= 1430119305635
+2015-04-27 08:21:45.637 Milestones[10061:1934192] diff= 1096615305635
+2015-04-27 08:21:45.637 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:45.637 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:45.637 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:46.782 Milestones[10061:1934192] dob.value= 1980-07-29
+2015-04-27 08:21:46.782 Milestones[10061:1934192] start= 333676800000
+2015-04-27 08:21:46.782 Milestones[10061:1934192] now= 1430119306780
+2015-04-27 08:21:46.782 Milestones[10061:1934192] diff= 1096442506780
+2015-04-27 08:21:46.782 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:46.783 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:46.783 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:47.832 Milestones[10061:1934192] dob.value= 1980-07-02
+2015-04-27 08:21:47.832 Milestones[10061:1934192] start= 331344000000
+2015-04-27 08:21:47.832 Milestones[10061:1934192] now= 1430119307829
+2015-04-27 08:21:47.832 Milestones[10061:1934192] diff= 1098775307829
+2015-04-27 08:21:47.832 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:47.832 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:47.832 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:48.684 Milestones[10061:1934192] dob.value= 1980-07-04
+2015-04-27 08:21:48.684 Milestones[10061:1934192] start= 331516800000
+2015-04-27 08:21:48.685 Milestones[10061:1934192] now= 1430119308683
+2015-04-27 08:21:48.685 Milestones[10061:1934192] diff= 1098602508683
+2015-04-27 08:21:48.685 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:48.685 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:48.685 Milestones[10061:1934192] months= [object HTMLElement]
+2015-04-27 08:21:49.465 Milestones[10061:1934192] dob.value= 1980-07-05
+2015-04-27 08:21:49.465 Milestones[10061:1934192] start= 331603200000
+2015-04-27 08:21:49.466 Milestones[10061:1934192] now= 1430119309463
+2015-04-27 08:21:49.466 Milestones[10061:1934192] diff= 1098516109463
+2015-04-27 08:21:49.466 Milestones[10061:1934192] values= [object Object]
+2015-04-27 08:21:49.466 Milestones[10061:1934192] days= [object HTMLElement]
+2015-04-27 08:21:49.466 Milestones[10061:1934192] months= [object HTMLElement]

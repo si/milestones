@@ -34,6 +34,10 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+
+        var dob = document.getElementById('dob');
+        dob.addEventListener('change', app.setDays, false);
+
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
@@ -45,7 +49,37 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
+    },
+    // Calculate day since entered date
+    setDays: function(e) {
+
+        //e.preventDefault();
+
+        var dob = document.getElementById('dob');
+        console.log('dob.value=',dob.value);
+
+        var start = Date.parse(dob.value);
+        console.log('start=',start);
+        var now = Date.now();
+        console.log('now=',now);
+        var diff = (now - start);
+        console.log('diff=',diff)
+
+        var values = {
+            days    : (diff/1000/60/60/24),
+            months  : (diff/1000/60/60/24/12),
+        };
+        console.log('values=',values);
+
+        var days = document.getElementById('days');
+        console.log('days=',days);
+        days.innerHTML = Math.floor(values.days);
+
+        var months = document.getElementById('months');
+        console.log('months=',months);
+        months.innerHTML = Math.floor(values.months);
     }
+
 };
 
 app.initialize();
