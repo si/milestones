@@ -38,6 +38,8 @@ var app = {
         var dob = document.getElementById('dob');
         dob.addEventListener('change', app.setDays, false);
 
+        app.toggleVisible('#summary', (dob.value!==''));
+
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
@@ -50,26 +52,37 @@ var app = {
 
         console.log('Received Event: ' + id);
     },
+    // Show/hide the summary
+    toggleVisible: function(selector, condition) {
+        document.querySelector(selector).style.display = (condition) ? 'block' : 'none';
+    },
     // Calculate day since entered date
     setDays: function(e) {
 
         //e.preventDefault();
-
+        var summary = document.getElementById('summary');
         var dob = document.getElementById('dob');
-        var start = Date.parse(dob.value);
-        var now = Date.now();
-        var diff = (now - start);
 
-        var values = {
-            days    : (diff/1000/60/60/24),
-            months  : (diff/1000/60/60/24/12),
-        };
-        console.log('values=',values);
+        if(dob.value !== '') {
 
-        app.setNumber('days', values.days);
-        app.setNumber('months', values.months);
+            var start = Date.parse(dob.value);
+            var now = Date.now();
+            var diff = (now - start);
 
-        app.setNumber('next_sf', app.getNextSigFig(values.days, 1));
+            var values = {
+                days    : (diff/1000/60/60/24),
+                months  : (diff/1000/60/60/24/12),
+            };
+            console.log('values=',values);
+
+            app.setNumber('days', values.days);
+            app.setNumber('months', values.months);
+
+            app.setNumber('next_sf', app.getNextSigFig(values.days, 1));
+
+        }
+        app.toggleVisible('#summary', (dob.value!==''));
+        
     },
 
     // Set number to an element
