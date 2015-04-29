@@ -69,20 +69,22 @@ var app = {
             var now = Date.now();
             var diff = (now - start);
 
-            var values = {
-                days    : (diff/1000/60/60/24),
-                months  : (diff/1000/60/60/24/12),
-            };
-            console.log('values=',values);
+            if(diff>0) {
+                var values = {
+                    days    : (diff/1000/60/60/24),
+                    months  : (diff/1000/60/60/24/12),
+                };
+                console.log('values=',values);
 
-            app.setNumber('days', values.days);
-            app.setNumber('months', values.months);
+                app.setNumber('days', values.days);
+                app.setNumber('months', values.months);
 
-            app.setNumber('next_sf', app.getNextSigFig(values.days, 1));
+                app.setNumber('next_sf', app.getNextSigFig(values.days, 1));
+            }
 
         }
         app.toggleVisible('#summary', (dob.value!==''));
-        
+
     },
 
     // Set number to an element
