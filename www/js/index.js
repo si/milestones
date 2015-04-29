@@ -56,14 +56,9 @@ var app = {
         //e.preventDefault();
 
         var dob = document.getElementById('dob');
-        console.log('dob.value=',dob.value);
-
         var start = Date.parse(dob.value);
-        console.log('start=',start);
         var now = Date.now();
-        console.log('now=',now);
         var diff = (now - start);
-        console.log('diff=',diff)
 
         var values = {
             days    : (diff/1000/60/60/24),
@@ -71,13 +66,29 @@ var app = {
         };
         console.log('values=',values);
 
-        var days = document.getElementById('days');
-        console.log('days=',days);
-        days.innerHTML = Math.floor(values.days);
+        app.setNumber('days', values.days);
+        app.setNumber('months', values.months);
 
-        var months = document.getElementById('months');
-        console.log('months=',months);
-        months.innerHTML = Math.floor(values.months);
+        app.setNumber('next_sf', app.getNextSigFig(values.days, 1));
+    },
+
+    // Set number to an element
+    setNumber: function(id, val) {
+        var el = document.getElementById(id);
+        el.innerHTML = app.formatNumber(val);
+    },
+
+    getNextSigFig: function(n, sig) {
+        var mult = Math.pow(10,
+            sig - Math.floor(Math.log(n) / Math.LN10) - 1);
+        //return Math.round(n * mult) / mult;
+        return (Math.ceil(n * mult) / mult);
+    },
+
+    // Format round numbers
+    formatNumber: function(val) {
+        //return Math.floor(val);
+        return Math.floor(val).toLocaleString();
     }
 
 };
