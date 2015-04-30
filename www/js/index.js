@@ -79,7 +79,9 @@ var app = {
                 app.setNumber('days', values.days);
                 app.setNumber('months', values.months);
 
-                app.setNumber('next_sf', app.getNextSigFig(values.days, 1));
+                var nextUp = app.getNextSigFig(values.days, 1);
+                app.setNumber('next_sf', nextUp);
+                app.showAlert("You're next milestone is " + nextUp, 'Next up...', 'OK');
             }
 
         }
@@ -104,7 +106,23 @@ var app = {
     formatNumber: function(val) {
         //return Math.floor(val);
         return Math.floor(val).toLocaleString();
+    },
+
+    // alert dialog dismissed
+    alertDismissed: function() {
+        // do something
+    },
+
+    // Show a custom alertDismissed
+    showAlert: function(msg, title, btn) {
+        navigator.notification.alert(
+            msg,            // message
+            app.alertDismissed, // callback
+            title,          // title
+            btn             // buttonName
+        );
     }
+
 
 };
 
