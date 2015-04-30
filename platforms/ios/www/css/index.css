@@ -82,3 +82,11 @@ h1 {
     display: block;
     font-size: 5rem;
 }
+
+input[type=date] {
+    background: rgba(0,0,0,0.1);
+    border: none;
+    font-size: 2rem;
+    padding: 0.5rem;
+}
+
